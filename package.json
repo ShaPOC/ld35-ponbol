@@ -1,0 +1,27 @@
+{
+  "name": "ponbol",
+  "version": "0.1.0",
+  "description": "A multiplayer pinball game made for Ludum Dare 35",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaPOC/ld35-ponbol.git"
+  },
+  "keywords": [
+    "Ludum",
+    "dare",
+    "35",
+    "Pinball",
+    "Multiplayer",
+    "PonBol"
+  ],
+  "author": "Jimmy Aupperlee <j.aup.gt@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ShaPOC/ld35-ponbol/issues"
+  },
+  "homepage": "https://github.com/ShaPOC/ld35-ponbol#readme"
+}
