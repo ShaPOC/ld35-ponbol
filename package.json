@@ -4,6 +4,7 @@
   "description": "A multiplayer pinball game made for Ludum Dare 35",
   "main": "src/index.js",
   "scripts": {
+    "start": "grunt run",
     "test": "grunt test"
   },
   "repository": {
